@@ -1,4 +1,4 @@
-# Eclipse 단축키
+# eclipse 단축키
 
 - **syso + ctrl + space** : System.out.println
 - **ctrl + D** : 라인 삭제
