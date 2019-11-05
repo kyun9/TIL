@@ -1,4 +1,4 @@
-# 함수와 Overloading
+# 메소드와 Overloading
 
 ### 메소드
 
