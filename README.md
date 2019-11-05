@@ -6,9 +6,13 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ***
 
-[TOC]
+## Categories
 
-## java
+* [java](#java)
+
+***
+
+### java
 
 - [eclipse단축키정리](./java/eclipse단축키정리.md)
 
