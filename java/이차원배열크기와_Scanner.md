@@ -16,6 +16,8 @@
   
   sc.next();                 // 단어 (워드), String ----->Space
   sc.nextLine();			   // ------> Enter  
+  
+  //숫자
   sc.nextInt();             // int
   sc.nextDouble();           // double
   
