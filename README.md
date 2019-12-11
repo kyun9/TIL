@@ -3,6 +3,7 @@
 >:books: Today I Learned
 
 A collection of concise write-ups on small things.
+
 I learn day to day across a variety of languages and technologies. 
 
 ***
@@ -15,6 +16,8 @@ I learn day to day across a variety of languages and technologies.
 
 ### java
 
+- [자바란?](./java/자바란.md)
+- [자바 프로그래밍](./java/자바_프로그래밍.md)
 - [eclipse단축키정리](./java/eclipse단축키정리.md)
 - [switch문과 label](./java/switch문과_label.md)
 - [for문과 형변환](./java/for문과_형변환.md)
