@@ -19,6 +19,7 @@ I learn day to day across a variety of languages and technologies.
 - [자바란?](./java/자바란.md)
 - [자바 프로그래밍](./java/자바_프로그래밍.md)
 - [JAVA8 변경 사항(1. 람다 표현식)](./java/JAVA8_변경_사항(람다_표현식).md)
+- [JAVA8 변경 사항(2. 스트림 API)](./java/JAVA8_변경_사항(스트림_API).md)
 - [eclipse단축키정리](./java/eclipse단축키정리.md)
 - [switch문과 label](./java/switch문과_label.md)
 - [for문과 형변환](./java/for문과_형변환.md)
