@@ -29,6 +29,9 @@ I learn day to day across a variety of languages and technologies.
 - [객체와 생성자 메소드](./java/객체와_생성자_메소드.md)
 - [상속(inheritance)](./java/상속(inheritance).md)
 - [다형성이란](./java/다형성이란.md)
+- [추상화 클래스 (다형성1)](./java/추상클래스_(다형성1).md)
+- [인터페이스 (다형성2)](./java/인터페이스_(다형성2).md)
+- [내부 클래스 (다형성3)](./java/내부클래스_(다형성3).md)
 - [인터페이스와 제어자정리](./java/인터페이스와_제어자정리.md)
 - [예외처리](./java/예외처리.md)
 
