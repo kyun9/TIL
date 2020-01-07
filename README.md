@@ -11,6 +11,8 @@ I learn day to day across a variety of languages and technologies.
 ### Categories
 
 * [java](#java)
+* [web](#web)
+  * [jquery](#jquery)
 
 ***
 
@@ -35,3 +37,8 @@ I learn day to day across a variety of languages and technologies.
 - [인터페이스와 제어자정리](./java/인터페이스와_제어자정리.md)
 - [예외처리](./java/예외처리.md)
 
+### web
+
+#### jquery
+
+* [jQuery란](./web/jquery/jQuery란.md)
