@@ -34,7 +34,8 @@ I learn day to day across a variety of languages and technologies.
 - [추상화 클래스 (다형성1)](./java/추상클래스_(다형성1).md)
 - [인터페이스 (다형성2)](./java/인터페이스_(다형성2).md)
 - [내부 클래스 (다형성3)](./java/내부클래스_(다형성3).md)
-- [접근 제어자](./java/접근_제어자.md)
+- [접근 제어자란](./java/접근_제어자.md)
+- [제너릭이란](./java/제너릭.md)
 - [예외처리](./java/예외처리.md)
 
 ### web
