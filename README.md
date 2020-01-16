@@ -13,6 +13,7 @@ I learn day to day across a variety of languages and technologies.
 * [java](#java)
 * [web](#web)
   * [jquery](#jquery)
+  * [ajax](#ajax)
 
 ***
 
@@ -43,4 +44,9 @@ I learn day to day across a variety of languages and technologies.
 
 #### jquery
 
-* [jQuery란](./web/jquery/jQuery란.md)
+* [jQuery란](./web/jQuery란.md)
+
+#### ajax
+
+* [Ajax란](./web/Ajax란.md)
+
