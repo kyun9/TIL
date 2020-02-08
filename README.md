@@ -14,6 +14,7 @@ I learn day to day across a variety of languages and technologies.
 * [web](#web)
   * [jquery](#jquery)
   * [ajax](#ajax)
+* [algorithm](#algorithm)
 
 ***
 
@@ -50,3 +51,7 @@ I learn day to day across a variety of languages and technologies.
 
 * [Ajax란](./web/Ajax란.md)
 
+### algorithm
+
+* [Permutation 순열](./algorithm/permutation.md)
+* [Combination 조합](./algorithm/combination.md)
