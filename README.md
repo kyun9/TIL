@@ -56,3 +56,5 @@ I learn day to day across a variety of languages and technologies.
 * [Permutation 순열](./algorithm/permutation.md)
 * [Combination 조합](./algorithm/combination.md)
 * [Dijkstra 다익스트라 (최단거리 구하기)](./algorithm/dijkstra.md)
+* [DisjointSet 서로수 집합 (Union-Find)](./algorithm/DisjointSet.md)
+
