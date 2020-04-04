@@ -68,5 +68,7 @@
 
 ### 정리된 코드
 
-[dijkstra code](https://github.com/kyun9/PracticeAlgorithm/blob/master/src/B_Study/B_Dijkstra_1753.java)
+[dijkstra code - 1](https://github.com/kyun9/PracticeAlgorithm/blob/master/src/B_Study/B_Dijkstra_1753.java)
+
+[dijkstra code - 2](https://github.com/kyun9/PracticeAlgorithm/blob/master/src/B_Study/B_Dijkstra_1753_2.java)
 
