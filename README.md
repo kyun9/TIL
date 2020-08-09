@@ -42,6 +42,7 @@ I learn day to day across a variety of languages and technologies.
 - [제너릭이란](./java/제너릭.md)
 - [컬렉션 프레임워크](./java/컬렉션_프레임워크.md)
 - [예외처리](./java/예외처리.md)
+- [Comparable과_Comparator_Interface](./java/Comparable과_Comparator_Interface.md)
 
 ### web
 
@@ -63,8 +64,13 @@ I learn day to day across a variety of languages and technologies.
 
 ### mySpring
 
-* [내가 겪은 스프링(200315)](./myspring/200315.md)
-* [내가 겪은 스프링(200316)](./myspring/200316.md)
-* [내가 겪은 스프링(200321)](./myspring/200321.md)
-* [내가 겪은 스프링(200322)](./myspring/200322.md)
+* [스프링 겪은 에러](./myspring/스프링겪은에러.md)
+* [component-scan](./myspring/component-scan.md)
+* [VO와 DTO의 차이](./myspring/VO와_DTO의_차이.md)
+* [Spring MVC Request Life Cycle](./myspring/springMVC_request_Life_Cycle.md)
+* [root.xml, servlet.xml, web.xml의 차이](./myspring/root,servlet,web_xml의_차이.md)
+* [ORM이란](./myspring/ORM.md)
+* [AOP와 OOP](./myspring/AOP와_OOP.md)
+* [Mybatis DB설정, Query문](./myspring/Mybatis_DB설정,_Query문.md)
+* [@Autowired, @Inject, @Resource 차이](./myspring/Autowired와_Inject와_Resource.md)
 
