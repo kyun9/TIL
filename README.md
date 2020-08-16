@@ -12,8 +12,6 @@ I learn day to day across a variety of languages and technologies.
 
 * [java](#java)
 * [web](#web)
-  * [jquery](#jquery)
-  * [ajax](#ajax)
 * [algorithm](#algorithm)
 * [mySpring](#mySpring)
 
@@ -46,13 +44,12 @@ I learn day to day across a variety of languages and technologies.
 
 ### web
 
-#### jquery
-
 * [jQuery란](./web/jQuery란.md)
 
-#### ajax
-
 * [Ajax란](./web/Ajax란.md)
+* [AWS EC2 vs HEROKU](./web/AWS EC2 vs HEROKU.md)
+
+
 
 ### algorithm
 
