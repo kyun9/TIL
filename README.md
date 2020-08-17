@@ -45,8 +45,8 @@ I learn day to day across a variety of languages and technologies.
 ### web
 
 * [jQuery란](./web/jQuery란.md)
-
 * [Ajax란](./web/Ajax란.md)
+* [Web Server VS Web Application Server(WAS)](./web/WAS_Webserver.md)
 * [AWS EC2 vs HEROKU](./web/AWS_EC2_vs_HEROKU.md)
 
 
