@@ -2,9 +2,7 @@
 
 >:books: Today I Learned
 
-A collection of concise write-ups on small things.
-
-I learn day to day across a variety of languages and technologies. 
+:fire:I record what I have studied.:fire:
 
 ***
 
@@ -14,6 +12,7 @@ I learn day to day across a variety of languages and technologies.
 * [web](#web)
 * [algorithm](#algorithm)
 * [mySpring](#mySpring)
+* [springBOOT](#springBOOT)
 
 ***
 
@@ -72,3 +71,7 @@ I learn day to day across a variety of languages and technologies.
 * [Mybatis DB설정, Query문](./myspring/Mybatis_DB설정,_Query문.md)
 * [@Autowired, @Inject, @Resource 차이](./myspring/Autowired와_Inject와_Resource.md)
 
+### springBOOT
+
+* [스프링이란? 개념정리](./springboot/스프링이란.md)
+* [JPA이란?](./springboot/JPA란.md)
