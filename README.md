@@ -76,3 +76,6 @@
 * [스프링이란? 개념정리](./springboot/스프링이란.md)
 * [JPA이란?](./springboot/JPA란.md)
 * [스프링 부트 동작원리](./springboot/스프링부트동작원리.md)
+* [스프링 부트 실행 시 메모리로드](./springboot/스프링실행시_메모리로드.md)
+* [스프링 부트 MySQL 세팅](./springboot/스프링부트_MySQL세팅.md)
+
