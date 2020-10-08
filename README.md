@@ -79,4 +79,6 @@
 * [스프링 부트 실행 시 메모리로드](./springboot/스프링실행시_메모리로드.md)
 * [스프링 부트 MySQL 세팅](./springboot/스프링부트_MySQL세팅.md)
 * [HTTP 통신(HTTP1.1이란?, stateless란?, MIME TYPE이란?)](./springboot/HTTP1.1이란.md)
+* [HTTP요청1](./springboot/HTTP요청1.md)
+* [HTTP요청2](./springboot/HTTP요청2.md)
 
