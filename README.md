@@ -13,6 +13,7 @@
 * [algorithm](#algorithm)
 * [mySpring](#mySpring)
 * [springBOOT](#springBOOT)
+* [개발일지](#개발일지)
 
 ***
 
@@ -81,4 +82,8 @@
 * [HTTP 통신(HTTP1.1이란?, stateless란?, MIME TYPE이란?)](./springboot/HTTP1.1이란.md)
 * [HTTP요청1](./springboot/HTTP요청1.md)
 * [HTTP요청2](./springboot/HTTP요청2.md)
+
+### 개발일지
+
+* [개발일지_교육](./개발일지/개발일지_교육.md)
 
