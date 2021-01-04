@@ -49,6 +49,7 @@
 * [Ajax란](./web/Ajax란.md)
 * [Web Server VS Web Application Server(WAS)](./web/WAS_Webserver.md)
 * [AWS EC2 vs HEROKU](./web/AWS_EC2_vs_HEROKU.md)
+* [1. 웹서비스개발 초기단계](./web/웹서비스개발_초기단계.md)
 
 
 
