@@ -63,6 +63,7 @@
 * [Dijkstra 다익스트라 (최단거리 구하기)](./algorithm/dijkstra.md)
 * [DisjointSet 서로수 집합 (Union-Find)](./algorithm/DisjointSet.md)
 * [Binary Search 이진탐색](./algorithm/BinarySearch.md)
+* [Priority Queue 완전정리](./algorithm/우선순위큐_정리.md)
 
 ### mySpring
 
