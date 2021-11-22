@@ -114,7 +114,7 @@
 
 ### 에러정리
 
-- [[ error ]  java.net.SocketException - Too many open files 분석](./에러정리/[ error ]  java.net.SocketException - Too many open files 분석.md)
+- [[ error ]  java.net.SocketException - Too many open files 분석](./에러정리/[error]java.net.SocketException_Too_many_open_files_분석.md)
 
 
 
