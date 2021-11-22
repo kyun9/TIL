@@ -7,9 +7,9 @@
 - WEB Server(Apache 등)를 활용하여  웹 서비스를 운영 시,
       **동접자가 많은 경우**,  구동되는 **process 수**와 **해당 process가 처리하게 되는 파일 수** 또한 증가하며 발생한 Error.
 - 시스템이 많은 파일과 소켓을 사용하는 경우, 시스템 오동작 (설정 값을 넘어가면 open() 시스템 콜에서 'Too many open files' 에러를 발생 시킴)
-      - 많은 파일 : 프로세스가 가질 수 있는  파일 개수을 의미
-      - 소켓 : Java에서 소켓 통신(HTTP API, JDBC 커넥션 등)을 의미
-           - 즉, open file =  process + socket 
+  - 많은 파일 : 프로세스가 가질 수 있는  파일 개수을 의미
+  - 소켓 : Java에서 소켓 통신(HTTP API, JDBC 커넥션 등)을 의미
+    - 즉, open file =  process + socket 
 
 ```bash
 톰캣 에러 로그 
