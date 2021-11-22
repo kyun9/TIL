@@ -5,11 +5,11 @@
 ## 원인
 
 - WEB Server(Apache 등)를 활용하여  웹 서비스를 운영 시,
-                                            **동접자가 많은 경우**,  구동되는 **process 수**와 **해당 process가 처리하게 되는 파일 수** 또한 증가하며 발생한 Error.
+      **동접자가 많은 경우**,  구동되는 **process 수**와 **해당 process가 처리하게 되는 파일 수** 또한 증가하며 발생한 Error.
 - 시스템이 많은 파일과 소켓을 사용하는 경우, 시스템 오동작 (설정 값을 넘어가면 open() 시스템 콜에서 'Too many open files' 에러를 발생 시킴)
-                                        - 많은 파일 : 프로세스가 가질 수 있는  파일 개수을 의미
-                                        - 소켓 : Java에서 소켓 통신(HTTP API, JDBC 커넥션 등)을 의미
-                                             - 즉, open file =  process + socket 
+      - 많은 파일 : 프로세스가 가질 수 있는  파일 개수을 의미
+      - 소켓 : Java에서 소켓 통신(HTTP API, JDBC 커넥션 등)을 의미
+           - 즉, open file =  process + socket 
 
 ```bash
 톰캣 에러 로그 
@@ -83,7 +83,7 @@ Caused by: java.io.FileNotFoundException: /home/cscenter/tomcat/webapps/ROOT/WEB
   -------------------------------------------------------------
   
   ```
-  
+
   ​	※ 크기 비교 :    ' /proc/sys/fs/file-max '      >=     '/proc/sys/fs/file-nr'     >=     'ulimit -n' 
 
   
@@ -91,12 +91,12 @@ Caused by: java.io.FileNotFoundException: /home/cscenter/tomcat/webapps/ROOT/WEB
 
 - 처리 2.  - 서버 구동 사용자(user) - 파일 limit 늘리기
 
-  
+
   - soft : 새로운 프로그램을 생성하면 기본으로 적용되는 한도
   - hard : 소프트한도에서 최대로 늘릴 수 있는 한도
-  
+
     - soft <=  hard (주로 동일하게 설정)
-  
+
   ```bash
   $ vi /etc/security/limits.conf
   
@@ -111,17 +111,17 @@ Caused by: java.io.FileNotFoundException: /home/cscenter/tomcat/webapps/ROOT/WEB
   {사용자} hard nofile {변경할 오픈파일수}
   -------------------------------------------------------------
   
--- 파일 적용 갱신
-  source /etc/security/limits.conf 
-
-  -- 재로그인
+  -- 파일 적용 갱신
+    source /etc/security/limits.conf 
+  
+    -- 재로그인
   ```
-  
-  
 
---------
 
-### 비고
+
+-----------
+
+## 비고
 
 - Linux를 비롯한 일반적인 Unix에서 Socket을 마치 File(Process)과 같은 취급을 함
   - open file =  process + socket 
@@ -139,7 +139,7 @@ Caused by: java.io.FileNotFoundException: /home/cscenter/tomcat/webapps/ROOT/WEB
 
       (파일 설명자 수를 최대값으로 범핑합니다(Solaris에만 해당).)
 
-      ​	https://www.oracle.com/java/technologies/javase/vmoptions-jsp.html
+      	https://www.oracle.com/java/technologies/javase/vmoptions-jsp.html
 
       
 
@@ -179,8 +179,6 @@ Caused by: java.io.FileNotFoundException: /home/cscenter/tomcat/webapps/ROOT/WEB
 
         ※ *nproc : 해당 도메인(사용자, 그룹)의 최대 프로세스 개수* 
 
-
-
 #### 참고자료
 
 ```markdown
@@ -208,8 +206,6 @@ ulimit [옵션] 값 ( Centos , RHEL 기준)
 -S : soft 한도
 -H : hard 한도
 ```
-
-
 
 -----
 
