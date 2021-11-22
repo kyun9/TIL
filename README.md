@@ -16,6 +16,7 @@
 * [개발일지](#개발일지)
 * [금융정리](#금융정리)
 * [react](#react)
+* [에러정리](#에러정리)
 
 ***
 
@@ -110,6 +111,12 @@
 
 - [React란? 컴포넌트 선언방식](./react/React와_컴포넌트선언방식.md)
 - [Props와 State](./react/props와_state.md)
+
+### 에러정리
+
+- [[ error ]  java.net.SocketException - Too many open files 분석](./에러정리/[ error ]  java.net.SocketException - Too many open files 분석.md)
+
+
 
 
 
