@@ -1,0 +1,16 @@
+# 인프런-**스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술** (김영한)
+
+>[인프런 강의링크](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)
+>
+>[실습 레포지토리 링크](https://github.com/kyun9/Spring_boot_Practice)
+
+:fire: 스프링부트 입문:fire:
+
+***
+
+### 강의
+
+- [1강_프로젝트생성](./1강_프로젝트생성.md)
+
+  
+
