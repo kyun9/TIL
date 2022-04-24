@@ -1,17 +1,16 @@
-# TIL (2022년 이후의 새로운 기록들)
+# TIL (2022년 이후의 새로운 기록들👨‍💻)
 
->:books: Today I Learned
+>:books: Today I Learned​ :books: 
 
-:fire:I record what I have studied.:fire:
+👻앞으로 새로 알게된 지식을 정리해 나아갑니다. 🔥
 
 ***
 
 ### Categories
 
-* 앞으로 새로 알게된 지식을 정리해 나아갑니다. :kissing_smiling_eyes:
-* [강의](#강의)
-* [react](#react)
-* [javaScript](#javaScript)
+* [강의](#강의) 😍
+* [react](#react) 🤩
+* [javaScript](#javaScript) 😅
 
 ***
 
