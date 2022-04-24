@@ -1,10 +1,8 @@
-# TIL (2022년 이후의 새로운 기록들👨‍💻)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=👨‍💻&nbsp;TIL&nbsp;(2022년&nbsp;이후의&nbsp;새로운&nbsp;기록들)&fontSize=40&desc=📚&nbsp;Today&nbsp;I&nbsp;Learned&nbsp;📚&descAlign=60&descAlignY=65)
 
->:books: Today I Learned​ :books: 
 
-👻앞으로 새로 알게된 지식을 정리해 나아갑니다. 🔥
+## 🔥 앞으로 새로 알게된 지식을 정리해 나아갑니다. 🔥
 
-***
 
 ### Categories
 
