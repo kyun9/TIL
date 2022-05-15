@@ -25,4 +25,5 @@
 - [02 javaScript Scope이란](./javaScript/02_javaScript_Scope이란.md)
 - [03 javaScript 변수 선언](./javaScript/03_javaScript_변수선언.md)
 - [04 javaScript ==와 === 차이](./javaScript/04_javaScript_==와===.md)
-
+- [05 javaScript 객체에 값 추가](./javaScript/05_javaScript_객체에_값추가.md)
+- [06 javaScript 객체의 키 가져오기](./javaScript/06_javaScript_객체의_키가져오기.md)
