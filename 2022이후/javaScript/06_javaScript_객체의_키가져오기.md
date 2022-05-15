@@ -9,7 +9,7 @@
    - ``Object.keys()`` 함수는 자바스크립트 객체의 키를 포함하는 배열을 반환한다.
 
      ```js
-  var fruitsArr1 = ["Apple", "Orange", "Mango", "Banana"];
+     var fruitsArr1 = ["Apple", "Orange", "Mango", "Banana"];
      var fruitsObj2 = { 0: "Apple", 4: "Orange", 2: "Mango", 3: "Banana"};
      var fruitsObj3 = { "id": "1", "name": "mango", "color": "yellow"};
      
