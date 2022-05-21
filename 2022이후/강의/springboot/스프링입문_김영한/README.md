@@ -47,3 +47,5 @@
   - [19강 순수 JDBC](19강_순수JDBC.md)
   - [20강 스프링 통합테스트](20강_스프링_통합테스트.md)
   - [21강 스프링 JdbcTemplate](21강_스프링_JdbcTemplate.md)
+  - [22강 JPA](22강_JPA.md)
+  - [23강 스프링 데이터 JPA](23강_스프링_데이터_JPA.md)
