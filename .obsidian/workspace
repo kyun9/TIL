@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "21270d195f6e8351",
+    "type": "split",
+    "children": [
+      {
+        "id": "4136bd56305e1fa1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022이후/강의/springboot/스프링입문_김영한/23강_스프링_데이터_JPA.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "755c371b0cf18b40",
+    "type": "split",
+    "children": [
+      {
+        "id": "9938c06c28aa27ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "215f6c2a2b7f516e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "85115e630b8635a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50fb1574268bcf67",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6469c42940735d19",
+    "type": "split",
+    "children": [
+      {
+        "id": "e593d840e3a13eb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6147fa36ab6c2973",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022이후/강의/springboot/스프링입문_김영한/23강_스프링_데이터_JPA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afa28ef118668649",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022이후/강의/springboot/스프링입문_김영한/23강_스프링_데이터_JPA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3400d3c5554b507e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbf79a9468dad40d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022이후/강의/springboot/스프링입문_김영한/23강_스프링_데이터_JPA.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4136bd56305e1fa1",
+  "lastOpenFiles": [
+    "2022이후/강의/springboot/스프링입문_김영한/21강_스프링_JdbcTemplate.md",
+    "2022이후/강의/springboot/스프링입문_김영한/20강_스프링_통합테스트.md",
+    "2022이후/강의/springboot/스프링입문_김영한/12강_회원서비스테스트.md",
+    "2022이후/강의/springboot/스프링입문_김영한/7강_API.md",
+    "2022이후/강의/springboot/스프링입문_김영한/2강_라이브러리살펴보기.md",
+    "2022이후/강의/springboot/스프링입문_김영한/4강_빌드하고실행하기.md",
+    "2022이후/강의/springboot/스프링입문_김영한/5강_정적컨텐츠.md",
+    "2022이후/강의/springboot/스프링입문_김영한/6강_MVC와템플릿엔진.md",
+    "2022이후/강의/springboot/스프링입문_김영한/9강_회원도메인과리포지토리만들기.md",
+    "2022이후/강의/springboot/스프링입문_김영한/1강_프로젝트생성.md"
+  ]
+}
